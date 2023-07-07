@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "lint": "next lint"
   },
   "repository": {
     "type": "git",
@@ -31,11 +32,14 @@
     "next-themes": "^0.2.1",
     "react": "^18",
     "react-dom": "^18",
-    "react-hook-form": "^7.45.1"
+    "react-hook-form": "^7.45.1",
+    "sharp": "^0.32.1"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.14",
+    "eslint": "^8.44.0",
     "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-react": "^7.32.2",
     "postcss": "^8.4.24",
     "tailwindcss": "^3.3.2"
   }
