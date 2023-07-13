@@ -37,6 +37,16 @@ const Home = () => {
         archived online for the larger research community and the general public. We hope these
         discussions will foster new collaborations and further develop a community of researchers
         interested in supporting learning in the future of work.
+        <br />
+        <br />
+        More information can be found in our{" "}
+        <a
+          href="/learning-collaboration_cscw23-workshop.pdf"
+          className="text-blue-600 dark:text-blue-500 hover:underline"
+        >
+          workshop proposal
+        </a>
+        .
       </SectionTitle>
 
       {/* Call for Participation */}
@@ -47,9 +57,11 @@ const Home = () => {
         the topics of this workshop; or a position paper arguing for a particular idea or approach
         related to the topics of the workshop.
         <br />
-        <br />
-        Paper should use ACM Extended Abstracts Format and be 3-5 pages long (excluding references).
+        <br /> Paper should use ACM Extended Abstracts Format and be 3-5 pages long (excluding
+        references). Submissions will be reviewed by the organizers based on both relevance and
+        originality.
         <span className="font-bold">
+          {" "}
           Please submit papers to{" "}
           <a
             href="mailto:eveyhuang@u.northwestern.edu"
@@ -59,7 +71,7 @@ const Home = () => {
           </a>{" "}
           by August 25th, 2023 (AOE)
         </span>
-        . Submissions will be reviewed by the organizers based on both relevance and originality.
+        .
       </SectionTitle>
 
       {/* Plan for Workshop */}
