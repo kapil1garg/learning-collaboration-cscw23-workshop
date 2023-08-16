@@ -36,10 +36,7 @@ const Home = () => {
         collaborate. Discussion and ideas generated from this workshop will be synthesized and
         archived online for the larger research community and the general public. We hope these
         discussions will foster new collaborations and further develop a community of researchers
-        interested in supporting learning in the future of work.
-        <br />
-        <br />
-        More information can be found in our{" "}
+        interested in supporting learning in the future of work. More information can be found in our{" "}
         <a
           href="/learning-collaboration_cscw23-workshop.pdf"
           className="text-blue-600 dark:text-blue-500 hover:underline"
@@ -47,6 +44,9 @@ const Home = () => {
           workshop proposal
         </a>
         .
+        <br />
+        <br />
+        The workshop will take place in-person at CSCW 2023 on Sunday October 15th, from 9:00am - 5:00pm.
       </SectionTitle>
 
       {/* Call for Participation */}
