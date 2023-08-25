@@ -36,7 +36,8 @@ const Home = () => {
         collaborate. Discussion and ideas generated from this workshop will be synthesized and
         archived online for the larger research community and the general public. We hope these
         discussions will foster new collaborations and further develop a community of researchers
-        interested in supporting learning in the future of work. More information can be found in our{" "}
+        interested in supporting learning in the future of work. More information can be found in
+        our{" "}
         <a
           href="/learning-collaboration_cscw23-workshop.pdf"
           className="text-blue-600 dark:text-blue-500 hover:underline"
@@ -46,7 +47,8 @@ const Home = () => {
         .
         <br />
         <br />
-        The workshop will take place in-person at CSCW 2023 on Sunday October 15th, from 9:00am - 5:00pm.
+        The workshop will take place in-person at CSCW 2023 on Sunday October 15th, from 9:00am -
+        5:00pm.
       </SectionTitle>
 
       {/* Call for Participation */}
@@ -57,9 +59,17 @@ const Home = () => {
         the topics of this workshop; or a position paper arguing for a particular idea or approach
         related to the topics of the workshop.
         <br />
-        <br /> Paper should use ACM Extended Abstracts Format and be 3-5 pages long (excluding
-        references). Submissions will be reviewed by the organizers based on both relevance and
-        originality.
+        <br /> Paper should use{" "}
+        <a
+          href="https://www.overleaf.com/latex/templates/chi2020-extended-abstract/hvnyhtvgqhwc"
+          className="text-blue-600 dark:text-blue-500 hover:underline"
+          target="_blank"
+          rel="noreferrer"
+        >
+          ACM Extended Abstracts Format{" "}
+        </a>
+        and be 3-5 pages long (excluding references). Submissions will be reviewed by the organizers
+        based on both relevance and originality.
         <span className="font-bold">
           {" "}
           Please submit papers to{" "}
@@ -69,7 +79,7 @@ const Home = () => {
           >
             eveyhuang@u.northwestern.edu
           </a>{" "}
-          by August 25th, 2023 (AOE)
+          by September 1st, 2023 Anywhere on Earth (AoE) time
         </span>
         .
       </SectionTitle>
